@@ -1,0 +1,11 @@
+body {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  background-color: #0D0221;
+  color: #EAF2EF;
+  align-items: center;
+}
+
+.bajaimg {
+ box-shadow: 9BC995 5px;
+ width: 500px;
+}
