@@ -2,10 +2,24 @@ body {
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   background-color: #0D0221;
   color: #EAF2EF;
+  display: flex;
+  flex-wrap: nowrap;
+  flex-direction: column;
   align-items: center;
 }
 
 .bajaimg {
- box-shadow: 9BC995 5px;
+ box-shadow: #9BC99580 5px 5px 5px 5px;
  width: 500px;
+}
+
+.bothcats {
+  width: 500px;
+  box-shadow: #7A306C80 5px 5px 5px 5px;
+}
+
+
+.clipsimg {
+  width: 500px;
+  box-shadow: #FFD40080 5px 5px 5px 5px;
 }
