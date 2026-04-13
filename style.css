@@ -8,18 +8,22 @@ body {
   align-items: center;
 }
 
+img {
+  width: 40%;
+}
+
 .bajaimg {
  box-shadow: #9BC99580 5px 5px 5px 5px;
- width: 500px;
 }
 
 .bothcats {
-  width: 500px;
   box-shadow: #7A306C80 5px 5px 5px 5px;
 }
 
-
 .clipsimg {
-  width: 500px;
   box-shadow: #FFD40080 5px 5px 5px 5px;
+}
+
+.guestcatimg {
+  box-shadow: #FF595E80 5px 5px 5px 5px;
 }
